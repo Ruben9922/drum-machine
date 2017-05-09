@@ -1,4 +1,4 @@
-package sample;
+package uk.co.ruben9922.drummachine;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
